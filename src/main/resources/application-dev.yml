@@ -4,8 +4,6 @@
 #    context-path: '/ead-notification/'
 
 spring:
-  application:
-    name: ead-notification-service
   config:
     import: 'configserver:'
   cloud:
